@@ -1,0 +1,1 @@
+echo "Junit successfull at : %date% ===> %time%"
