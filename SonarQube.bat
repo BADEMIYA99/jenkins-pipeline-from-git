@@ -1,0 +1,1 @@
+echo "SonarQube Quality successfull at : %date% ===> %time%"
